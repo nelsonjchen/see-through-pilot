@@ -29,3 +29,9 @@ https://shopify.github.io/spatial-commerce-projects/WonkaVision/
 --- https://github.com/alsteven
 
 This is a very similar to "fishtank VR", where a monitor is used as a virtual 3D volume. If helpful, my (20 year old) graduate thesis outlines a calibration method that could be repurposed here to calibrate the position of eyes, and also derives the math you need to reproject a rectangle based on a new eye position. https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/831/items/1.0051444?o=0  
+
+# Timeline
+
+# August 2024
+
+* [adeeb - i doubt this will be a good experience](https://discord.com/channels/469524606043160576/954493346250887168/1272302880552124580)
