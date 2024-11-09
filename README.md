@@ -1,5 +1,11 @@
 # see-through-pilot
 
+## Not actually a project.
+
+Just archiving this discussion or idea from the now shuttered GitHub discussion
+
+---
+
 Just a placeholder post, sort of, and maybe a discussion, maybe a request for further interest, should anyone want to try to take it on. Just documenting this outside of Discord. https://discord.com/channels/469524606043160576/524328425415245827/913348168769490954
 
 https://www.cs.purdue.edu/cgvlab/papers/popescu/popescuTD_ISMAR16.pdf
